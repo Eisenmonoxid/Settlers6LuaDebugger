@@ -1,7 +1,0 @@
-<SyntaxModes version="1.0">
-
-  <Mode file       = "Lua.xshd"
-	      name       = "Lua"
-	      extensions = ".lua"/>
-
-</SyntaxModes>
